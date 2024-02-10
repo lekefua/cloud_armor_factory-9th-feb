@@ -1,4 +1,4 @@
-project_id = "sami-islam-project101-dev"
+project_id = "lens-1"
 region = "northamerica-northeast1"
-policy_name = "sami-test-policy"
+policy_name = "test"
 policy_description = "Security Policy Description"
