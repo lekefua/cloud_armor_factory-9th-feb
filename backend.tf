@@ -4,7 +4,8 @@ terraform {
     organization = "LENS 1"
 
     workspaces {
-      name = "cloud_armor_factory"
+      name = "cloud_armor_factory-9th-feb
+"
     }
   }
 }*/
